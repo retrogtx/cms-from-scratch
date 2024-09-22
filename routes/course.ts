@@ -13,5 +13,3 @@ courseRouter.get("/course/preview", function(req, res) {
         message: "signup endpoint"
     })
 })
-
-module.exports = courseRouter;
